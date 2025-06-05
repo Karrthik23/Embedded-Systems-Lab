@@ -1,0 +1,25 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "PITCH_DIRA",
+					"strict" : false
+				},
+				{
+					"name" : "PITCH_DIRB",
+					"strict" : false
+				},
+				{
+					"name" : "PITCH_PWM_VAL",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_CLK1_50",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
